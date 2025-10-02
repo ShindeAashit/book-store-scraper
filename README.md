@@ -71,9 +71,7 @@ bookstore-scraper/
 ├── requirements.txt     # Project dependencies
 ├── README.md           # Project documentation
 ├── .gitignore          # Git ignore file
-│
-├── data/               # Output directory (created on first run)
-│   └── books.csv       # Scraped data
+├── books.csv       # Scraped data
 │
 └── logs/               # Log files (optional)
     └── scraper.log
