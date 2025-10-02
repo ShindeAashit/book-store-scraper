@@ -265,7 +265,8 @@ Saved 100 books to books.csv
 ```
 
 ### Sample Data
-![img.png](book-store-scraper/img.png)
+
+![img.png](img.png)
 
 
 ---
